@@ -1,5 +1,5 @@
 {
-  "name": "sass-loader",
+  "name": "@project-pandora-game/sass-loader",
   "version": "13.2.0",
   "description": "Sass loader for webpack",
   "license": "MIT",
